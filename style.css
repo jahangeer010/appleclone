@@ -1,0 +1,102 @@
+ul {
+  list-style-type: none;
+  padding: 0;
+  overflow: hidden;
+  margin: 1px;
+  background-color: #333;
+  padding-left: 69px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 40px;
+  text-decoration: none;
+  margin-left: 10px;
+  padding-bottom: 0px;
+}
+
+div.heading{
+  padding :10px 0 10px 0;
+  background-color: blue;
+  text-align: center;
+  color: white;
+  }
+  div.heading2{
+    padding :10px 0 10px 0;
+    background-color: rgb(241, 236, 236);
+    text-align: center;
+    
+    } 
+  h1{
+    text-align: center;
+    font-size: 45px;
+    font: Helvetica, Arial, sans-serif;
+  }
+  .heading3{
+    text-align: center;
+    font: 1em sans-serif;
+    font-size: x-large;
+  }
+  .heading4{
+    color:grey;
+    text-align: center;
+    font-size: 24px;
+    
+  }
+  .heading5{
+    color:blue;
+    text-align: center;
+    font-size: 24px;
+    
+  }
+  .heading6{
+    color:black;
+    text-align: center;
+    font-size: 44px;
+    
+  }
+  .heading7{
+    color:black;
+    text-align: center;
+    font-size: 24px;
+    
+    
+  }
+  .heading8{
+    text-align: center;
+    font-size: 24px;
+    text-decoration: none;    
+  }
+  
+  .card1{
+    height: 500px;
+    width: 600px;
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 0px;
+    margin-left: 10px;
+    
+  }
+  .card2{
+    height: 500px;
+    width: 600px;
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 620px;
+    margin-top: -509px;
+    font-size: 35px;
+        
+  }
+  .font{
+    color: red;
+  }
