@@ -1,3 +1,4 @@
+
 ul {
   list-style-type: none;
   padding: 0;
@@ -77,7 +78,7 @@ div.heading{
   .card1{
     height: 500px;
     width: 600px;
-    background-color: black;
+    background-image: url("racial.jpg");
     color:white;
     text-align: center;
     padding-top: 10px;
@@ -88,7 +89,7 @@ div.heading{
   .card2{
     height: 500px;
     width: 600px;
-    background-color: black;
+    background-image: url("download.jpg");
     color:white;
     text-align: center;
     padding-top: 10px;
@@ -100,3 +101,67 @@ div.heading{
   .font{
     color: red;
   }
+
+  .footer{
+    
+    color: grey;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 13px;
+    
+    background-color: rgb(222, 224, 224);
+
+}
+ul.footer{
+  list-style: none;
+  color: black;
+  font-weight: bold;
+}
+li.headingf{
+  list-style: none;
+  color:grey
+} 
+ul#footer2{
+    
+  color: black;
+  padding-left: 20px;
+  font-weight: bold;
+  padding-right: 20px;
+  font-size: 13px;
+  background-color: rgb(222, 224, 224);
+  margin-top: -386px;
+  margin-left: 150px;
+}
+ul#footer3{
+    
+  color: black;
+  padding-left: 20px;
+  font-weight: bold;
+  padding-right: 20px;
+  font-size: 13px;
+  background-color: rgb(222, 224, 224);
+  margin-top: -508px;
+  margin-left: 330px;
+}
+ul#footer4{
+    
+  color: black;
+  padding-left: 20px;
+  font-weight: bold;
+  padding-right: 20px;
+  font-size: 13px;
+  background-color: rgb(222, 224, 224);
+  margin-top: -350px;
+  margin-left:550px;
+}
+ul#footer5{
+    
+  color: black;
+  padding-left: 20px;
+  font-weight: bold;
+  padding-right: 20px;
+  font-size: 13px;
+  background-color: rgb(222, 224, 224);
+  margin-top: -515Px;
+  margin-left:750px;
+}
